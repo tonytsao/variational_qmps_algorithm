@@ -5,6 +5,6 @@ We propose a hybrid quantum-classical algorithm with QMPS as our ansatz and use 
 **statevector_trotter.py**: Quantum Trotter time evolution.  
 **fvqte.py**: Hybrid quantum-classical algorithm using qiskit statevector simulator.  
 **meas_fvqte.py**: Using global cost function and simalate by qiskit measurement-shot method.  
-**local_fvqte.py**: Using local cost function and simalate by qiskit measurement-shot method.
-**nft.py**: Apply Nakanishi-Fujii-Todo method as optimization method.
-**noise_fvqte.py, noise_nft_fvqte.py**: IBMQ noise model simulation.
+**local_fvqte.py**: Using local cost function and simalate by qiskit measurement-shot method.  
+**nft.py**: Apply Nakanishi-Fujii-Todo method as optimization method.  
+**noise_fvqte.py, noise_nft_fvqte.py**: IBMQ noise model simulation.  
